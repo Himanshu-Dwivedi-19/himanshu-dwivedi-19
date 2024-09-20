@@ -20,7 +20,7 @@ I am passionate about making a real-world impact through data and technology, an
 
 
 <div id="header" align="center">
-  <img src="https://github.com/shahiakhilesh1304/shahiakhilesh1304/assets/29931371/ece3dc20-deca-44cd-8ec1-ec3f207fcff2" width="500"/>
+  <img src="https://github.com/himanshu-dwivedi-19/himanshu-dwivedi-19/assets/29931371/ece3dc20-deca-44cd-8ec1-ec3f207fcff2" width="500"/>
 </div>
 
 
@@ -31,7 +31,7 @@ I am passionate about making a real-world impact through data and technology, an
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-dwivedi-19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-dwivedi-19" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/akhileshpra_sha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akhileshpra_sha1" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -89,11 +89,11 @@ I am passionate about making a real-world impact through data and technology, an
 
 - 💬 I am currently learning **Data Science , NLP , Machine Learning , Data Analysis**
 
-- 📫 How to reach me **akhileshpra.shahi@gmail.com**
+- 📫 How to reach me **rishikantdwivedi608@gmail.com**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahiakhilesh1304&show_icons=true&locale=en&layout=compact" alt="shahiakhilesh1304" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-dwivedi-19&show_icons=true&locale=en&layout=compact" alt="himanshu-dwivedi-19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&locale=en" alt="shahiakhilesh1304" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-dwivedi-19&show_icons=true&locale=en" alt="himanshu-dwivedi-19" /></p>
 
-<p><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahiakhilesh1304&" /></p>
+<p><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-dwivedi-19&" /></p>
