@@ -59,7 +59,7 @@ Feel free to reach out via [email](mailto:rishikantdwivedi608@gmail.com) or conn
 ---
 
 **GitHub Stats**  
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-dwivedi-19&show_icons=true&theme=radical)
 
 <!--
 **Himanshu-Dwivedi-19/himanshu-dwivedi-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
