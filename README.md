@@ -23,7 +23,9 @@ I am passionate about making a real-world impact through data and technology, an
   <img src="" width="500"/>
 </div>
 
-
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/71593372?v=4" width="45" height="45" style="border-radius: 50;"/>
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himsndhu-dwivedi-19&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu Dwivedi" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-dwivedi-19" alt="himanshu-dwivedi-19" /></a> </p>
