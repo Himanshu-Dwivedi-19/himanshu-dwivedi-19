@@ -57,6 +57,10 @@ I am passionate about making a real-world impact through data and technology, an
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/> </a>  
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="60" height="40"/> </a> 
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"  width="60" height="40"/> </a>
+ <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg"  width="60" height="40"/> </a>
+ <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"  width="60" height="40"/> </a>
+ <a href="https://druid.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/druidio/druidio-ar21.svg"  width="60" height="40"/> </a>
+
 </p>
 
 
