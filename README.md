@@ -19,9 +19,7 @@ I am passionate about making a real-world impact through data and technology, an
 
 
 
-<div id="header" align="center">
-  <img src="" width="500"/>
-</div>
+ 
 
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/71593372?v=4" width="45" height="45" style="border-radius: 50;"/>
