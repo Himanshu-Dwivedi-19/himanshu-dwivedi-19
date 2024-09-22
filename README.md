@@ -71,7 +71,7 @@ I am passionate about making a real-world impact through data and technology, an
 
 - 🚀 I’m a **B.Tech Graduate major in Computer Science**
 
-- 👨My Technical skill are **Python, Java 8, DSA, J2SE, J2EE, Servlet, Spring, Hibernate, Spring Boot, JSP, C, C++, OOPS, JPA Repository, Maven, Groovy, etc.**
+- 👨My Technical skill are **Python, Scala , DSA, C, C++, OOPS, Shell Scripting etc.**
 
 - 💬 I am currently learning **Data Science , NLP , Machine Learning , Data Analysis**
 
